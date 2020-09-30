@@ -1,7 +1,7 @@
 @import 'fly';
 @import 'pygments';
 
-footer {
+footer:hover {
   text-align: left;
   font-family: 'source_sans_pro', 'Helvetica Neue';
   font-weight: normal;
@@ -16,7 +16,7 @@ footer {
     margin-top: 90px;
   }
 
-  a {
+  .a {
     color: #666666;
     font-weight: bold;
 
